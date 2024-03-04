@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pular{
+    display: flex;
+    justify-content: flex-end;
+    border: none;
+}
+
+.imagem-02{
+    text-align: center;
+    margin-top: 61px;
+}
+h2,p{
+    text-align: center;
+    margin-top: 20px;
+}
+
+button{
+    border: none;
+    background-color: #FFFF;
+    
+}
+
+.butt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ 
+   
+}
+
+.criar{
+    background-color: #173EA5;
+    color: #FFFF;
+    width: 264px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 530px;
+    margin-top: 20px;
+}
+.conta{
+    margin-top: 20px;
+}

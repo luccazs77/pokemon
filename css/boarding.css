@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+
+.imagem-01{
+    text-align: center;
+    margin-top: 100px;
+   
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buton-continuar{
+    text-align: center;
+    margin-top: 30px;
+}
+
+button{
+    background-color: #173EA5;
+    color: #FFFF;
+    width: 328px; /* largura*/
+    height: 58px; /*altura*/
+    border-radius: 30px;
+}
+
+.ponto{
+    text-align: center;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFFF;
+}
